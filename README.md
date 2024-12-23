@@ -1,12 +1,12 @@
 <h1 align="center">My Portfolio Website</h1>
 <p align="center"><i>Making A User friendly Portfolio Website using React Framework</i></p>
 <div align="center">
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/MyPortfolioReact" alt="Stars Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/MyPortfolioReact" alt="Forks Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/MyPortfolioReact" alt="Pull Requests Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/MyPortfolioReact" alt="Issues Badge"/></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/akshatrajsaxena/MyPortfolioReact" ?color=2b9348"></a>
-  <a href="https://github.com/akshatrajsaxena/MyPortfolioReact/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/MyPortfolioReact ?color=2b9348" alt="License Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/portfolio/stargazers"><img src="https://img.shields.io/github/stars/akshatrajsaxena/portfolio" alt="Stars Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/portfolio/network/members"><img src="https://img.shields.io/github/forks/akshatrajsaxena/portfolio" alt="Forks Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/portfolio/pulls"><img src="https://img.shields.io/github/issues-pr/akshatrajsaxena/portfolio" alt="Pull Requests Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/portfolio/issues"><img src="https://img.shields.io/github/issues/akshatrajsaxena/portfolio" alt="Issues Badge"/></a>
+  <a href="https://github.com/akshatrajsaxena/portfolio/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/akshatrajsaxena/portfolio" ?color=2b9348"></a>
+  <a href="https://github.com/akshatrajsaxena/portfolio/blob/master/LICENSE"><img src="https://img.shields.io/github/license/akshatrajsaxena/portfolio ?color=2b9348" alt="License Badge"/></a>
 </div>
 <br>
 
