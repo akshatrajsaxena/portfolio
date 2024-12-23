@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Implementing Locality Sensitive Hashing",
+        "imageSrc": "projects/project.png",
+        "description": "This project implements LSH to identify similarities between documents for a large dataset.",
+        "skills": ["Python", "Jupyter"],
+        "demo": "https://github.com/akshatrajsaxena/Implementing-LSH",
+        "source": "https://github.com/akshatrajsaxena/Implementing-LSH"
+      },
+      {
+        "title": "Socket Programming",
+        "imageSrc": "projects/project.png",
+        "description": "Setting up a TCP Client connection using single-threaded, multi-threaded and select command in C language.",
+        "skills": ["C", "Shell"],
+        "demo": "https://github.com/akshatrajsaxena/socket_programming",
+        "source": "https://github.com/akshatrajsaxena/socket_programming"
+      },
+      {
+        "title": "Dish Nutrient Simplifier",
+        "imageSrc": "projects/project.png",
+        "description": "This is a full stack web application that simplifies the nutrient information of a ingredient provided by user.",
+        "skills": ["React", "Flask"],
+        "demo": "https://dish-nutrient-simplifier-cn9t.vercel.app/",
+        "source": "https://github.com/adsh16/dish-nutrient-simplifier"
+      }
+]
